@@ -14,7 +14,7 @@
 	"compileType": "miniprogram",
 	"libVersion": "2.4.3",
 	"appid": "wx374a0f37b50eb5ce",
-	"projectname": "cup",
+	"projectname": "book",
 	"debugOptions": {
 		"hidedInDevtools": []
 	},
